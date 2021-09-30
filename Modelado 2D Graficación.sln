@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelado 2D Graficación", "Modelado 2D Graficación\Modelado 2D Graficación.csproj", "{0E330DB6-D991-4CAA-B62C-6AA75F803864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E330DB6-D991-4CAA-B62C-6AA75F803864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E330DB6-D991-4CAA-B62C-6AA75F803864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E330DB6-D991-4CAA-B62C-6AA75F803864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E330DB6-D991-4CAA-B62C-6AA75F803864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D92C22-B99B-46AA-A2E9-68128D7AB11A}
+	EndGlobalSection
+EndGlobal
